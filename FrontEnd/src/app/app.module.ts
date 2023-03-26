@@ -15,6 +15,7 @@ import { SkillsComponent } from './components/skills/skills.component';
 import { SkillsBComponent } from './components/skills/skills-b/skills-b.component';
 import { SkillsFComponent } from './components/skills/skills-f/skills-f.component';
 import { SkillsSComponent } from './components/skills/skills-s/skills-s.component';
+import { ModelsComponent } from './app/models/models.component';
 
 
 @NgModule({
@@ -32,6 +33,7 @@ import { SkillsSComponent } from './components/skills/skills-s/skills-s.componen
     SkillsBComponent,
     SkillsFComponent,
     SkillsSComponent,
+    ModelsComponent,
     
   ],
   imports: [
